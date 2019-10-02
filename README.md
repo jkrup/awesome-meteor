@@ -140,6 +140,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for deploying and maintaining Meteor apps*
 
+* [meteor-hero](https://github.com/jkrup/meteor-hero) - Deploy MeteorJS app's free Heroku with Ease.
 * [meteor-up](https://github.com/arunoda/meteor-up) – Meteor Deployments.
 * [meteor-google-cloud](https://github.com/EducationLink/meteor-google-cloud) - Automate Meteor deployments on Google Cloud App Engine Flexible
 * [mup-aws-beanstalk](https://github.com/zodern/mup-aws-beanstalk) - Deploy Meteor apps to AWS Elastic Beanstalk using Meteor Up
